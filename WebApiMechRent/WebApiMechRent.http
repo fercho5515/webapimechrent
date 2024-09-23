@@ -1,0 +1,6 @@
+@WebApiMechRent_HostAddress = http://localhost:5185
+
+GET {{WebApiMechRent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
